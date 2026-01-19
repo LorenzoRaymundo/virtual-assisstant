@@ -1,6 +1,5 @@
 # virtual-assisstant
 A Python based virtual assisstant with simple voice commands. Developed before LLMs.
----
 <img width="625" height="416" alt="image" src="https://github.com/user-attachments/assets/c711e528-589d-4462-94da-ba4323e3de4c" />
 
 ## Features:
